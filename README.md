@@ -16,8 +16,8 @@ You can see other generated images [here](https://github.com/arminZolfaghari/GAN
 # Dataset
 The dataset includes 15747 images which are 64x64 resized RGB.
 The dataset is available on [Kaggle](https://www.kaggle.com/datasets/spandan2/cats-faces-64x64-for-generative-models) as images.
-Also, you can see my implementation and notebook on [Kaggle](https://www.kaggle.com/code/arminzolfaghari/cat-dcgan).
-You can download the dataset as Numpy array from [this](https://drive.google.com/file/d/1GS_E0TlExDEHEYEz3_FQ1iM_v7gZPL0i/view?usp=share_link).
+Also, you can see my implementation and notebook on [Kaggle](https://www.kaggle.com/code/arminzolfaghari/cat-dcgan). </br>
+I stored the dataset in Numpy array form to make it easier to work with data, you can download it from [this](https://drive.google.com/file/d/1GS_E0TlExDEHEYEz3_FQ1iM_v7gZPL0i/view?usp=share_link).
 
 # Model
 ## Generator
